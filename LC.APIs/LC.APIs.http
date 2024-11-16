@@ -1,0 +1,6 @@
+@LC.APIs_HostAddress = http://localhost:5047
+
+GET {{LC.APIs_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

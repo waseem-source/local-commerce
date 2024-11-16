@@ -1,0 +1,10 @@
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\bin\Debug\netstandard2.0\LC.DTO.deps.json
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\bin\Debug\netstandard2.0\LC.DTO.dll
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\bin\Debug\netstandard2.0\LC.DTO.pdb
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.csproj.AssemblyReference.cache
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.AssemblyInfoInputs.cache
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.AssemblyInfo.cs
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.csproj.CoreCompileInputs.cache
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.dll
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.DTO\obj\Debug\netstandard2.0\LC.DTO.pdb
