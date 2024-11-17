@@ -32,3 +32,4 @@ D:\Business\LocalCommerce\SourceCode\local-commerce\LC.APIs\obj\Debug\net8.0\LC.
 D:\Business\LocalCommerce\SourceCode\local-commerce\LC.APIs\obj\Debug\net8.0\ref\LC.APIs.dll
 D:\Business\LocalCommerce\SourceCode\local-commerce\LC.APIs\bin\Debug\net8.0\LC.DTO.dll
 D:\Business\LocalCommerce\SourceCode\local-commerce\LC.APIs\bin\Debug\net8.0\LC.DTO.pdb
+D:\Business\LocalCommerce\SourceCode\local-commerce\LC.APIs\obj\Debug\net8.0\LC.APIs.sourcelink.json
